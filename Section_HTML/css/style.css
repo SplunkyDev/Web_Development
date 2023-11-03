@@ -1,44 +1,39 @@
-html
-{
-    background-color:#C2DEDC;
-}  
-
-* 
-{
-     text-align:: center;
+html {
+  background-color: #C2DEDC;
 }
 
-.info-title
-{
-    font-family: 'Courgette', cursive;
-    background-color:#ECE5C7;
+* {
+  text-align: center;
 }
 
-img
-{
-    height: 200px;
-    width: 180px;
+.info-title {
+  font-family: 'Courgette', cursive;
+  background-color: #ECE5C7;
 }
 
-.content
-{
-    font-family: 'Russo One', sans-serif;
-    background-color: #CDC2AE;
-    color: #116A7B;
+img {
+  height: 300px;
+  width: 300px;
 }
 
-p
-{
-    color: #116A7B;
-}
-
-li
-{
+.content {
+  font-family: 'Russo One', sans-serif;
+  background-color: #CDC2AE;
   color: #116A7B;
 }
 
-<!--
-font-family: 'Courgette', cursive;
-font-family: 'Indie Flower', cursive;
-font-family: 'Russo One', sans-serif;
+p {
+  color: #116A7B;
+}
+
+li {
+  color: #116A7B;
+}
+
+< !-- font-family: 'Courgette',
+cursive;
+font-family: 'Indie Flower',
+cursive;
+font-family: 'Russo One',
+sans-serif;
 -->
